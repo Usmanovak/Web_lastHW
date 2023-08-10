@@ -1,0 +1,41 @@
+<!-- Составьте список из 5 ваших любимых фильмов в формате JSON или XML. 
+В описании укажите название фильма, рейтинг, дату выхода на экраны, режиссера. 
+Если хотите смиксовать жанры - жанры тоже указать в описании дополнительно. 
+Можно использовать данные с сайтов КиноПоиск, ФильмРу и др. -->
+
+<cinema>
+    <name>Хоббит. Нежданное путешествие</name>
+    <rating>8.1 / 10</rating>
+    <date>2012</date>
+    <country>США, Новая Зеландия</country>
+    <director>Питер Джексон</director>
+    <ganre>Фэнтези</ganre>
+
+    <name>Автостопом по галактике</name>
+    <rating>7.1 / 10</rating>
+    <date>2005</date>
+    <country>Великобритания, США</country>
+    <director>Колин Серро</director>
+    <ganre>Фантастика, комедия</ganre>
+
+    <name>Прекрасная зеленая</name>
+    <rating>7.7 / 10</rating>
+    <date>1996</date>
+    <country>Франция</country>
+    <director>Питер Джексон</director>
+    <ganre>Фантастика, комедия</ganre>
+        
+    <name>Властелин колец</name>
+    <rating>8.6 / 10</rating>
+    <date>2001</date>
+    <country>США, Новая Зеландия</country>
+    <director>Питер Джексон</director>
+    <ganre>Фэнтези</ganre>
+
+    <name>Джентельмены</name>
+    <rating>8.6 / 10</rating>
+    <date>2019</date>
+    <country>Великобритания, США</country>
+    <director>Гай Ричи</director>
+    <ganre>Криминал</ganre>
+</cinema>
